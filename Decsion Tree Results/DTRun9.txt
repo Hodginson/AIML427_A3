@@ -1,0 +1,7 @@
+Seed used: -5152540015237176470
+Test Accuracy = 0.9465244322092223
+Test Error = 0.05347556779077767
+Train Accuracy = 0.950129494669638
+Train Error = 0.04987050533036197
+Time taken(ms): 19626
+
